@@ -1,0 +1,10 @@
+name: DevMotd
+main: dev.gamer.DevMotd
+version: 1.0
+commands:
+  motd:
+    description: Veja a motd atual
+  setmotd:
+    description: defina a motd
+  setserverlist:
+    description: defina a motd no serverlist
